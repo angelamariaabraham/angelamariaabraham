@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 😄 I'm Angela, a CS undergraduate from India.
 
-I'm passionate about learning new technologies and building projects that make an impact.
+💻 I'm passionate about learning new technologies and building projects that make an impact.
