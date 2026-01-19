@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **angelamariaabraham/angelamariaabraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I'm Angela, a CS undergraduate from India.
+I'm passionate about learning new technologies and building projects that make an impact.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
