@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Angela, a CS undergraduate from India.
+😄 I'm Angela, a CS undergraduate from India.
+
 I'm passionate about learning new technologies and building projects that make an impact.
