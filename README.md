@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 😄 I'm Angela, a CS undergraduate from India.
 
 💻 I'm passionate about learning new technologies and building projects that make an impact.
+🌱 I am currently building a Self-Evaluating Multi-Agent Research Platform
